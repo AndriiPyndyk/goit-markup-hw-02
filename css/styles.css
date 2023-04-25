@@ -107,6 +107,7 @@
 
     color: var(--white);
     background-color: var(--iris);
+    cursor: pointer;
 }
 
 .hero-btn:hover,
@@ -181,6 +182,7 @@
 
     color: var(--iris);
     background-color: var(--cornflower);
+    cursor: pointer;
 }
 
 .filter-list-btn:hover,
